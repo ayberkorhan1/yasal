@@ -3,7 +3,7 @@ layout: default
 title: Donmuş Ada Gizlilik Politikası
 ---
 
-# Donmuş Ada (Frost Farm) Gizlilik Politikası / Privacy Policy
+# Donmuş Ada Gizlilik Politikası / Privacy Policy
 
 Yürürlük tarihi / Effective date: 18 Kasım 2026 / 18 November 2026
 
@@ -12,7 +12,7 @@ Yürürlük tarihi / Effective date: 18 Kasım 2026 / 18 November 2026
 ## Türkçe
 
 ### 1. Genel
-Donmuş Ada (App Store adı: Frost Farm; "oyun") bir iOS hayatta kalma oyunudur. Bu metin, oyunun hangi verilere eriştiğini ve bunları nasıl kullandığını açıklar. Geliştirici: **Ayberk Orhan**. İletişim: **ayberkorhan1@gmail.com**.
+Donmuş Ada ("oyun") bir iOS hayatta kalma oyunudur. Bu metin, oyunun hangi verilere eriştiğini ve bunları nasıl kullandığını açıklar. Geliştirici: **Ayberk Orhan**. İletişim: **ayberkorhan1@gmail.com**.
 
 ### 2. Hesap yok, kişisel veri talebi yok
 Oyun hesap, e-posta, telefon, konum, rehber, fotoğraf veya mikrofon gibi kişisel bilgi **istemez**. Oyuna yazdığın karakter adı yalnızca cihazında saklanır, bize gönderilmez.
@@ -28,7 +28,7 @@ Oyun, **isteğe bağlı ödüllü reklamlar** gösterir (örneğin bayılma sonr
 - Reklam izlemek tamamen isteğe bağlıdır. Reklam izlemeden de oyunu oynayabilirsin.
 
 ### 5. Uygulama içi satın alma
-Oyun, bir kerelik "Reklamsız Paket" satın alımı sunar. Ödeme Apple tarafından işlenir. Kart veya ödeme bilgilerin bize ulaşmaz. Satın alma durumunu doğrulamak için Apple'ın StoreKit hizmeti kullanılır.
+Oyun, bir kerelik "Premium Paket" (reklamsız + kalıcı oyun bonusları) satın alımı sunar. Ödeme Apple tarafından işlenir. Kart veya ödeme bilgilerin bize ulaşmaz. Satın alma durumunu doğrulamak için Apple'ın StoreKit hizmeti kullanılır.
 
 ### 6. Analiz ve izleme
 Oyun, kendi analiz veya izleme aracını **kullanmaz**. Yukarıda anılan reklam hizmeti dışında verilerin üçüncü taraflarla paylaşılması söz konusu değildir.
@@ -50,7 +50,7 @@ Sorular, destek talepleri ve oyunu nasıl daha iyi yapabileceğimize dair öneri
 ## English
 
 ### 1. Overview
-Donmuş Ada (App Store name: Frost Farm; the "game") is an iOS survival game. This policy explains what data the game accesses and how it is used. Developer: **Ayberk Orhan**. Contact: **ayberkorhan1@gmail.com**.
+Donmuş Ada (the "game") is an iOS survival game. This policy explains what data the game accesses and how it is used. Developer: **Ayberk Orhan**. Contact: **ayberkorhan1@gmail.com**.
 
 ### 2. No account, no personal data requested
 The game does **not** ask for accounts, email, phone number, location, contacts, photos or microphone. The character name you enter is stored only on your device and is not sent to us.
@@ -66,7 +66,7 @@ The game shows **optional rewarded ads** (for example to reduce losses after fai
 - Watching ads is entirely optional. You can play without watching any ad.
 
 ### 5. In-app purchase
-The game offers a one-time "No Ads Pack" purchase. Payment is processed by Apple; your card or payment details never reach us. Apple's StoreKit is used to verify the purchase state.
+The game offers a one-time "Premium Pack" purchase (no ads + permanent in-game bonuses). Payment is processed by Apple; your card or payment details never reach us. Apple's StoreKit is used to verify the purchase state.
 
 ### 6. Analytics and tracking
 The game does **not** use its own analytics or tracking tools. Apart from the ad service above, no data is shared with third parties.
